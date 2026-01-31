@@ -7,8 +7,8 @@ readme = "README.md"
 requires-python = ">=3.8"
 
 [project.urls]
-Homepage = "https://github.com/murilogustineli/leetcode"
-Issues = "https://github.com/murilogustineli/leetcode/issues"
+Homepage = "https://github.com/mgustineli/leetcode"
+Issues = "https://github.com/mgustineli/leetcode/issues"
 
 [build-system]
 requires = ["setuptools>=61.0"]
